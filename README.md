@@ -3,7 +3,7 @@
 IoT-Flock is an open-source tool for IoT traffic generation which supports the two widely used IoT
 application layer protocols, i.e., MQTT and CoAP. IoT-Flock allows a user to create an IoT use case,
 add customized IoT devices into it and generate normal and malicious IoT traffic over a real-time
-network.<br/>
+network.
 # Sponsors #
 ![](iril-mini.png)
 ![](kics_logo_png-mini.png)
@@ -25,7 +25,6 @@ Currently, we included four recent IoT application layer vulnerability attacks i
 
 # How to Install & Use #
 ## 1) Install Dependencies ##
-<br/>
 #### QT Creater ####
 Link: https://www.qt.io/download <br/>
 File Name used in project is: qt-opensource-linux-x64-5.12.3_2.run
