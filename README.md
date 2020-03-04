@@ -4,7 +4,7 @@ application layer protocols, i.e., MQTT and CoAP. IoT-Flock allows a user to cre
 add customized IoT devices into it and generate normal and malicious IoT traffic over a real-time
 network.
 # Sponsors #
-![](iril-mini.png)
+![](iril-mini.png/200x150)
 ![](kics_logo_png-mini.png)
 
 
