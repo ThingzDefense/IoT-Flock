@@ -64,3 +64,9 @@ Source Code is download from : https://github.com/ThingzDefense/IoT-Flock
 ## 3) Build the Source Code ##
 import the 'IoTFlock' Project file into the QTCreator 5 as
 ![](pic6.png)
+after successfully import the project file as below
+![](pic7.png)
+click on the build-all from the build tab to successfuly build the code to the target system as
+![](pic8.png)
+after that click on run to run the program as
+![](pic9.png)
