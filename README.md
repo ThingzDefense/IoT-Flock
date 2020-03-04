@@ -5,4 +5,4 @@ add customized IoT devices into it and generate normal and malicious IoT traffic
 network.
 # Sponsors
 ![](kics_logo_png.png)
-![](kics_logo_png.png)
+![](iril.png)
