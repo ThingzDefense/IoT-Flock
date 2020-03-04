@@ -84,9 +84,13 @@ then save the device cong as XML as<br/>
 ![](export.png)<br/>
 <br/>
 ## 5) Run the Use Case and Generate Use Case Traffic ##
-### Command to Rune the xml File and gernerate the Traffic ###
-<br/>
-IoT-Flock-Binaries$ sudo ./IoTFlock-Console ./path of xml file/kitchencare.xml
+### Command to Run the xml File and gernerate the Traffic ###
+#### From Source builds ####
+Note:in case of build from source code the directory "build-IoTFlock1-Desktop_Qt_5_12_3_GCC_64bit-Debug" contains the binaries of the code so you have to open the directory and open in terminal write the command to run the project.
+#### From already builded bineries #####
+open the directory named "IoT-Flock-Binaries" in the terminal and write the command to run the xml file<br/>
+##### sudo ./IoTFlock-Console ./path of xml file/kitchencare.xml #####
+
 
 Then the results is
 
@@ -95,10 +99,7 @@ Then the results is
 ## Publication ##
 https://www.kics.edu.pk/labs/about/iril 
 ### License ### 
-GPL v2 or Later. Contact us IRIL Team [Ghazanfar Abbass](mailto:ghazanfar.abbas@kics.edu.pk) if you require a different license.<br/>
+GPL v2 or Later. Contact us [IRIL Team](mailto:ghazanfar.abbas@kics.edu.pk) if you require a different license.<br/>
 ### Copyright ###
-IoT-Flock is developed by IRIL Team @ <br/> KICS
-(Al-Khawarizmi Institute of Computer Science), University of Engineering & Technology Lahore, Pakistan.
-****
-##### Powered by: #####
-![](iril-logo.png)
+IoT-Flock is developed by IoT Research and Inovation Lab,<br/>
+Al-Khawarizmi Institute of Computer Science (KICS), UET, Lahore, Pakistan.
