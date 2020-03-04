@@ -26,7 +26,7 @@ Currently, we included four recent IoT application layer vulnerability attacks i
 ## 1) Install Dependencies ##
 
 #### QT Creater ####
-Link: https://www.qt.io/download 
+Link: https://www.qt.io/download <br/>
 File Name used in project is: qt-opensource-linux-x64-5.12.3_2.run
 #### Libtins ####
   sudo apt-get update -y
@@ -49,7 +49,7 @@ sudo wireshark<br/>
 
 #### MQTT - Protocol ####
 ##### Mosquitto Broker #####
-sudo apt-get update
+sudo apt-get update<br/>
 sudo apt-get install mosquitto
 ##### Mosquitto Client #####
 sudo apt-get install mosquitto-clients
@@ -57,3 +57,4 @@ sudo apt-get install mosquitto-clients
 #### CoAP - Protocol ####
 ##### CoAPthon (implementation of CoAP Protocol in Python) #####
 pip install CoAPthon<br/>
+<br/>Link for Code: https://github.com/Tanganelli/CoAPthon<br/>
