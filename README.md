@@ -71,6 +71,8 @@ click on the build-all from the build tab to successfuly build the code to the t
 ![](pic8.png)
 after that click on run to run the program as
 ![](pic9.png)
+## 4) Build the Use Case ##
+
 -----
 ##### Powered by: #####
 ![](iril-logo.png)
