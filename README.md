@@ -70,7 +70,7 @@ click on the build-all from the build tab to successfuly build the code to the t
 ![](pic8.png)<br/>
 after that click on Run Button to run the program as<br/>
 ![](pic9.png)<br/>
-## 4) Build the Use Case ##
+## 4) Add the Use Case ##
 ![](build-usecase.png)<br/>
 after add new use case click on edit to add devices as
 ## 5) Add IoT Devices ##
@@ -85,9 +85,11 @@ then save the device cong as XML as<br/>
 <br/>
 ## 5) Run the Use Case and Generate Use Case Traffic ##
 ### Command to Rune the xml File and gernerate the Traffic ###
-IoT-Flock-Binaries$ sudo ./IoTFlock-Console ./path of xml file/kitchencare.xml
 <br/>
+IoT-Flock-Binaries$ sudo ./IoTFlock-Console ./path of xml file/kitchencare.xml
+
 Then the results is
+
 ![](run-xml.png)
 ----
 ## Publication ##
