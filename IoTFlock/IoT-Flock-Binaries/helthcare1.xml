@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UseCase>
+    <Device>
+        <Device_Name>Room1-Temp Sensor</Device_Name>
+        <Protocol>MQTT</Protocol>
+        <IP_Address>192.168.0.151</IP_Address>
+        <Num_Of_Devices>1</Num_Of_Devices>
+        <Is_AttackingEntity>0</Is_AttackingEntity>
+        <Attack_Type></Attack_Type>
+        <Source_IP></Source_IP>
+        <Target_IP></Target_IP>
+        <Target_Port>1104610320</Target_Port>
+        <Messages_Per_Sec>32766</Messages_Per_Sec>
+        <Message></Message>
+        <MQTT>
+            <Brooker_IP>192.168.0.110</Brooker_IP>
+            <Is_Authentication_Require>1</Is_Authentication_Require>
+            <User_Name>arya</User_Name>
+            <Password>stark</Password>
+            <Port>1883</Port>
+            <Publish_Detail>
+                <Topic>Temperature</Topic>
+                <QoS>0</QoS>
+                <Time_Profile_Type>Periodic</Time_Profile_Type>
+                <Time_Profile_Interval>2</Time_Profile_Interval>
+                <Time_Profile_RandomFrom>0</Time_Profile_RandomFrom>
+                <Time_Profile_RandomTo>0</Time_Profile_RandomTo>
+                <Data_Profile_IsStartText>0</Data_Profile_IsStartText>
+                <Data_Profile_StartText></Data_Profile_StartText>
+                <Data_Profile_IsRandom>1</Data_Profile_IsRandom>
+                <Data_Profile_RandomFrom>-55</Data_Profile_RandomFrom>
+                <Data_Profile_RandomTo>150</Data_Profile_RandomTo>
+                <Data_Profile_IsEndText>0</Data_Profile_IsEndText>
+                <Data_Profile_EndText></Data_Profile_EndText>
+            </Publish_Detail>
+        </MQTT>
+    </Device>
+    <Device>
+        <Device_Name>RoomTemp</Device_Name>
+        <Protocol>COAP</Protocol>
+        <IP_Address>192.168.0.156</IP_Address>
+        <Num_Of_Devices>1</Num_Of_Devices>
+        <Is_AttackingEntity>0</Is_AttackingEntity>
+        <Attack_Type></Attack_Type>
+        <Source_IP></Source_IP>
+        <Target_IP></Target_IP>
+        <Target_Port>3538944</Target_Port>
+        <Messages_Per_Sec>0</Messages_Per_Sec>
+        <Message></Message>
+    </Device>
+</UseCase>
