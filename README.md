@@ -56,6 +56,9 @@ sudo apt-get install mosquitto-clients
 
 #### CoAP - Protocol ####
 ##### CoAPthon (implementation of CoAP Protocol in Python) #####
+First install the Python<br/>
+sudo apt install python<br/>
+sudo apt install python-pip<br/>
 pip install CoAPthon<br/>
 <br/>Link for Code: https://github.com/Tanganelli/CoAPthon<br/>
 
