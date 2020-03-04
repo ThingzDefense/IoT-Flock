@@ -23,3 +23,23 @@ Currently, we included four recent IoT application layer vulnerability attacks i
 
 # How to Install & Use #
 ## Install Dependencies ##
+
+#### QT Creater ####
+Link: https://www.qt.io/download 
+File Name used in project is: qt-opensource-linux-x64-5.12.3_2.run
+
+#### Libtins ####
+  sudo apt-get update -y
+  sudo apt-get install -y libtins-dev
+
+#### libcap ####
+  sudo apt-get install libpcap-dev libssl-dev cmake
+
+#### Boost ####
+  sudo apt-get install libboost-all-dev
+#### OpenGL ####
+  sudo apt-get install mesa-utils
+#### FreeGlut ####
+  sudo apt-get install freeglut3-dev
+#### QTCompiler
+
