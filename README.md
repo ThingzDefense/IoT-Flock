@@ -84,5 +84,11 @@ then device successfully added<br/>
 then save the device cong as XML as<br/>
 ![](export.png)<br/>
 <br/>
+## 5) Run the Use Case and Generate Use Case Traffic ##
+### Command to Rune the xml File and gernerate the Traffic ###
+IoT-Flock-Binaries$ sudo ./IoTFlock-Console ./path of xml file/kitchencare.xml
+<br/>
+Then the results is
+
 ##### Powered by: #####
 ![](iril-logo.png)
