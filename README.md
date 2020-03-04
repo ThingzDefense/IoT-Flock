@@ -67,16 +67,22 @@ import the 'IoTFlock' Project file into the QTCreator 5 as
 ![](pic6.png)
 after successfully import the project file as below
 ![](pic7.png)
-![](pic11.png)
 click on the build-all from the build tab to successfuly build the code to the target system as
 ![](pic8.png)
 after that click on Run Button to run the program as
 ![](pic9.png)
 ## 4) Build the Use Case ##
-
+![](build-usecase.png)
+after add new use case click on edit to add devices as
 ## 5) Add IoT Devices ##
-Clieck on the add 
-
+![](iot-device-add.png)
+then fill the fields of device attributes as
+![](dev1.png)
+![](mqtt.png)
+then device successfully added
+![](added-dev.png)
+then save the device cong as XML as
+![](export.png)
 
 ##### Powered by: #####
 ![](iril-logo.png)
