@@ -94,6 +94,11 @@ Then the results is
 ----
 ## Publication ##
 https://www.kics.edu.pk/labs/about/iril 
+### License ### 
+GPL v2 or Later. Contact us at [Ghazanfar Abbass](ghazanfar.abbas@kics.edu.pk)if you require a different license.<br/>
+### Copyright ###
+IoT-Flock is developed by IRIL Team at <br/> KICS
+(Al-Khawarizmi Institute of Computer Science), University of Engineering & Technology Lahore, Pakistan.
 ****
 ##### Powered by: #####
 ![](iril-logo.png)
