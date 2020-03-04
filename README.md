@@ -65,7 +65,6 @@ Source Code is download from : https://github.com/ThingzDefense/IoT-Flock
 import the 'IoTFlock' Project file into the QTCreator 5 as
 ![](pic6.png)<br/>
 after successfully import the project file as below
-![](pic7.png)<br/>
 ![](pro-file.png)<br/>
 click on the build-all from the build tab to successfuly build the code to the target system as<br/>
 ![](pic8.png)<br/>
@@ -89,6 +88,10 @@ then save the device cong as XML as<br/>
 IoT-Flock-Binaries$ sudo ./IoTFlock-Console ./path of xml file/kitchencare.xml
 <br/>
 Then the results is
-
+![](run-xml.png)
+----
+## Publication ##
+https://www.kics.edu.pk/labs/about/iril 
+****
 ##### Powered by: #####
 ![](iril-logo.png)
