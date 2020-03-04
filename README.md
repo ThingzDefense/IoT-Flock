@@ -25,6 +25,7 @@ Currently, we included four recent IoT application layer vulnerability attacks i
 
 # How to Install & Use #
 ## 1) Install Dependencies ##
+Install the following dependies in order to run IoT-Flock:
 #### QT Creater ####
 Link: https://www.qt.io/download <br/>
 File Name used in project is: qt-opensource-linux-x64-5.12.3_2.run
@@ -102,7 +103,7 @@ Then the results is
 ## Publication ##
 https://www.kics.edu.pk/labs/about/iril 
 ### License ### 
-GPL v2 or Later. Contact us [IRIL Team](mailto:ghazanfar.abbas@kics.edu.pk) if you require a different license.<br/>
+Contact us [IRIL Team](mailto:ghazanfar.abbas@kics.edu.pk) if you require a different license.<br/>
 ### Copyright ###
 IoT-Flock is developed by IoT Research and Inovation Lab,<br/>
 Al-Khawarizmi Institute of Computer Science (KICS), UET, Lahore, Pakistan.
