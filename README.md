@@ -62,3 +62,4 @@ pip install CoAPthon<br/>
 ## 2) Download the Source Code ##
 Source Code is download from : https://github.com/ThingzDefense/IoT-Flock
 ## 3) Build the Source Code ##
+import the 'IoTFlock' Project file into the QTCreator 5 as
