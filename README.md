@@ -106,4 +106,4 @@ https://www.kics.edu.pk/labs/about/iril
 GNU General Public License. Contact us [IRIL Team](mailto:ghazanfar.abbas@kics.edu.pk) if you require a different license.<br/>
 ### Copyright (c) 2019 ###
 IoT-Flock is developed by IoT Research and Inovation Lab,<br/>
-Al-Khawarizmi Institute of Computer Science (KICS), UET, Lahore, Pakistan.(92)
+Al-Khawarizmi Institute of Computer Science (KICS), UET, Lahore, Pakistan.
