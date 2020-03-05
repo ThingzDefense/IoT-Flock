@@ -43,6 +43,8 @@ File Name used in project is: qt-opensource-linux-x64-5.12.3_2.run
   sudo apt-get install freeglut3-dev
 #### QTCompiler ####
   sudo apt-get install qt5-default
+#### SQL Lite ####
+  sudo apt install sqlite
 #### Wireshark ####
 sudo add-apt-repository ppa:wireshark-dev/stable<br/>
 sudo apt-get update<br/>
@@ -91,11 +93,12 @@ then save the device cong as XML as<br/>
 ## 5) Run the Use Case and Generate Use Case Traffic ##
 ### Command to Run the xml File and gernerate the Traffic ###
 #### From Source builds ####
-Note:in case of build from source code the directory "build-IoTFlock1-Desktop_Qt_5_12_3_GCC_64bit-Debug" contains the binaries of the code so you have to open the directory and open in terminal write the command to run the project.
+Note:in case of build from source code the directory "build-IoTFlock1-Desktop_Qt_5_12_3_GCC_64bit-Debug" <br/>contains the binaries of the code so you have to open the directory and copy the<br/> file 'db2.sql' into folder "build-IoTFlock1-Desktop_Qt_5_12_3_GCC_64bit-Debug"<br/> and open in terminal write the below command to run the project.
 #### From already builded bineries #####
 open the directory named "IoT-Flock-Binaries" in the terminal and write the command to run the xml file<br/>
 ##### sudo ./IoTFlock-Console ./path of xml file/kitchencare.xml #####
-
+Note: if file "./IoTFlock-Console" does not run then give the permission first as <br/>
+sudo chmod +x IoTFlock-Console
 
 Then the results is
 
