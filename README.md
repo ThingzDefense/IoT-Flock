@@ -46,8 +46,6 @@ File Name used in project is: qt-opensource-linux-x64-5.12.3_2.run
 #### SQL Lite ####
   sudo apt install sqlite
 #### Wireshark ####
-sudo add-apt-repository ppa:wireshark-dev/stable<br/>
-sudo apt-get update<br/>
 sudo apt-get install wireshark<br/>
 sudo wireshark<br/>
 
