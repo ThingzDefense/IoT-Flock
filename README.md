@@ -71,7 +71,7 @@ import the 'IoTFlock' Project file into the QTCreator 5 as
 after successfully import the project file as below
 ![](Images/pro-file.png)<br/>
 click on the build-all from the build tab to successfuly build the code to the target system as<br/>
-![](Images/pic8.png)<br/>
+![](Images/Build-success.png)<br/>
 after that click on Run Button to run the program as<br/>
 ![](Images/pic9.png)<br/>
 ## 4) Add the Use Case ##
