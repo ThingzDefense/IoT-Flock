@@ -6,7 +6,7 @@ add customized IoT devices into it and generate normal and malicious IoT traffic
 network.
 # Sponsors #
 ![](Images/iril-mini.png)
-![](kics_logo_png-mini.png)
+![](Images/kics_logo_png-mini.png)
 
 
 # Uses #
@@ -30,7 +30,7 @@ Install the following dependies in order to run IoT-Flock:
 Link: https://www.qt.io/download <br/>
 File Name used in project is: qt-opensource-linux-x64-5.12.3_2.run
 #### Libtins ####
-  sudo apt-get update -y
+  sudo apt-get update -y<br/>
   sudo apt-get install -y libtins-dev
 #### libcap ####
   sudo apt-get install libpcap-dev libssl-dev cmake
@@ -67,25 +67,25 @@ pip install CoAPthon<br/>
 Source Code is download from : https://github.com/ThingzDefense/IoT-Flock
 ## 3) Build the Source Code ##
 import the 'IoTFlock' Project file into the QTCreator 5 as
-![](pic6.png)<br/>
+![](Images/pic6.png)<br/>
 after successfully import the project file as below
-![](pro-file.png)<br/>
+![](Images/pro-file.png)<br/>
 click on the build-all from the build tab to successfuly build the code to the target system as<br/>
-![](pic8.png)<br/>
+![](Images/pic8.png)<br/>
 after that click on Run Button to run the program as<br/>
-![](pic9.png)<br/>
+![](Images/pic9.png)<br/>
 ## 4) Add the Use Case ##
-![](build-usecase.png)<br/>
+![](Images/build-usecase.png)<br/>
 after add new use case click on edit to add devices as
 ## 5) Add IoT Devices ##
-![](iot-device-add.png)<br/>
+![](Images/iot-device-add.png)<br/>
 then fill the fields of device attributes as<br/>
-![](dev1.png)<br/>
-![](mqtt.png)<br/>
+![](Images/dev1.png)<br/>
+![](Images/mqtt.png)<br/>
 then device successfully added<br/>
-![](added-dev.png)<br/>
+![](Images/added-dev.png)<br/>
 then save the device cong as XML as<br/>
-![](export.png)<br/>
+![](Images/export.png)<br/>
 <br/>
 ## 5) Run the Use Case and Generate Use Case Traffic ##
 ### Command to Run the xml File and gernerate the Traffic ###
@@ -98,7 +98,7 @@ open the directory named "IoT-Flock-Binaries" in the terminal and write the comm
 
 Then the results is
 
-![](run-xml.png)
+![](Images/run-xml.png)
 ----
 ## Publication ##
 https://www.kics.edu.pk/labs/about/iril 
